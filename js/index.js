@@ -32,7 +32,7 @@ function formatarNumero(numero) {
   }
   
   // Especifica a data inicial desejada (por exemplo, "2023-01-01 12:00:00")
-  var dataInicial = "2019-04-13 20:30:00";
+  var dataInicial = "2017-04-13 20:30:00";
   
   // Chama a função inicialmente para exibir o contador de dias, horas e minutos atual com a data inicial
   atualizarContador(dataInicial);
